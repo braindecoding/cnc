@@ -2,7 +2,6 @@
 
 Selamat datang di repositori **Cracking Neural Code**! Aplikasi ini dibangun dengan Python.
 
----
 
 ## Persyaratan Sistem
 
@@ -11,7 +10,6 @@ Untuk menjalankan aplikasi ini, Anda memerlukan:
 * **Python 3.12** (atau versi yang lebih baru direkomendasikan)
 * **pip** (manajer paket Python, biasanya sudah termasuk dengan instalasi Python)
 
----
 
 ## Langkah-langkah Menjalankan Aplikasi
 
